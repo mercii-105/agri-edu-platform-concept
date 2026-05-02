@@ -18,9 +18,4 @@ By making agricultural knowledge more accessible and easy to understand, AgriEdu
 ### Main Concept
 ![Main](Concept-Poster.png)
 
-### Visual Concept
-![Visual](visual-poster.png)
-
-### Prototype UI
-![UI](UI-poster.png)
 
